@@ -1,0 +1,7 @@
+{
+  "watch": ["."],
+  "ext": "*",
+  "ignore": [".git/**", "node_modules/**", "*.log"],
+  "exec": "auto_sync_git.bat",
+  "delay": "2500"
+}
